@@ -1,0 +1,7 @@
+pandas
+matplotlib
+imbalanced-learn
+imblearn
+wordcloud
+seaborn
+ipywidgets
